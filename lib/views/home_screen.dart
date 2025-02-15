@@ -19,13 +19,6 @@ class HomeScreen extends StatelessWidget {
               },
               child: Text('Build Your Team'),
             ),
-            SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.pushNamed(context, '/leaderboard');
-              },
-              child: Text('View Leaderboard'),
-            ),
           ],
         ),
       ),
