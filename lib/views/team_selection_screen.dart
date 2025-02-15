@@ -86,6 +86,7 @@ class _TeamSelectionScreenState extends State<TeamSelectionScreen> {
               ),
             );
           } else if (state is TeamInvalid) {
+          } else if (state is TeamInvalid) {
             return Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
@@ -362,7 +363,6 @@ class _TeamSelectionScreenState extends State<TeamSelectionScreen> {
       ),
     );
   }
-
   // Helper method to get the list of clubs
   Map<String, String> _getClubList() {
     return {
