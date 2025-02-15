@@ -1,0 +1,2385 @@
+{
+    "clubs": [
+        {
+            "club_name": "Mouloudia Club d'Alger - MCA",
+            "kit_image_url": "Club_Kits/mca_kit.png",
+            "players": [
+                {
+                    "name": "Andy Delort",
+                    "position": "FW",
+                    "price": 20
+                },
+                {
+                    "name": "Amine Messoussa",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Mohamed Zoungrana",
+                    "position": "MF",
+                    "price": 8
+                },
+                {
+                    "name": "Zakaria Naidji",
+                    "position": "FW",
+                    "price": 12
+                },
+                {
+                    "name": "Romaric Dognimin Ouattara",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Kipré Tiagori Emmanuel Junior Zunon",
+                    "position": "FW",
+                    "price": 11
+                },
+                {
+                    "name": "Larbi Tabti",
+                    "position": "MF",
+                    "price": 7.5
+                },
+                {
+                    "name": "Ayoub Abdellaoui",
+                    "position": "DF",
+                    "price": 8.5
+                },
+                {
+                    "name": "Zakaria Draoui",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Akram Bouras",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Réda Halaïmia",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Tayeb Meziani",
+                    "position": "FW",
+                    "price": 9.5
+                },
+                {
+                    "name": "Sofiane Bayazid",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Khayreddine Merzougui",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Mehdi Boucherit",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Toufik Moussaoui",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Serge Anthony Badjo",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Adel Ghanem",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Marwane Khelif",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Ayoub Ghezala",
+                    "position": "DF",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed Benkhemessa",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Hamza Mouali",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Abdelkader Menezla",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Seif Eddine Belkhir",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Abdelatif Ramdane",
+                    "position": "GK",
+                    "price": 4
+                },
+                {
+                    "name": "Kamel Hamidi",
+                    "position": "DF",
+                    "price": 5
+                },
+                {
+                    "name": "Oussama Benhaoua",
+                    "position": "MF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Yakoub Gassi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Larbi Nasr Eddine Abiaoui",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Yacine Hamadouche",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Abdedjabar Beklal",
+                    "position": "FW",
+                    "price": 7.5
+                }
+            ]
+        },
+        {
+            "club_name": "Chabab Riadhi Belouizdad - CRB",
+            "kit_image_url": "Club_Kits/crb_kit.png",
+            "players": [
+                {
+                    "name": "Khanyisa Mayo",
+                    "position": "FW",
+                    "price": 12
+                },
+                {
+                    "name": "Islam Slimani",
+                    "position": "FW",
+                    "price": 15
+                },
+                {
+                    "name": "Ishak Boussouf",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Aymen Mahious",
+                    "position": "FW",
+                    "price": 11
+                },
+                {
+                    "name": "Naoufel Khacef",
+                    "position": "DF",
+                    "price": 7
+                },
+                {
+                    "name": "Abd El Kader Meziane Bentahar",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Mohamed Azzi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Chouaïb Keddad",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Houcine Benayada",
+                    "position": "DF",
+                    "price": 8
+                },
+                {
+                    "name": "Islam Belkhir",
+                    "position": "FW",
+                    "price": 9.5
+                },
+                {
+                    "name": "Rezki Hamroune",
+                    "position": "FW",
+                    "price": 8.5
+                },
+                {
+                    "name": "Abderaouf Benguit",
+                    "position": "MF",
+                    "price": 7.5
+                },
+                {
+                    "name": "Arafat Doumbia",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Jacques Amour Tagnouo Mbé",
+                    "position": "MF",
+                    "price": 8
+                },
+                {
+                    "name": "Hedy Chaabi",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Youcef Laouafi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Merouane Zerrouki",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Oussama Daibeche",
+                    "position": "FW",
+                    "price": 8.5
+                },
+                {
+                    "name": "Redouane Maachou",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Housseyn Selmi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Bilal Boukerchaoui",
+                    "position": "DF",
+                    "price": 7
+                },
+                {
+                    "name": "Moustapha Zeghba",
+                    "position": "GK",
+                    "price": 5.5
+                },
+                {
+                    "name": "Badreddine Souyad",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Farid Chaâl",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mouad Hadded",
+                    "position": "DF",
+                    "price": 5
+                },
+                {
+                    "name": "Lotfi Boussouar",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abderrahmane Bekkour",
+                    "position": "DF",
+                    "price": 6
+                }
+            ]
+        },
+        {
+            "club_name": "Union sportive de la médina d'Alger - USMA",
+            "kit_image_url": "Club_Kits/usma_kit.png",
+            "players": [
+                {
+                    "name": "Adalid Terrazas",
+                    "position": "MF",
+                    "price": 8
+                },
+                {
+                    "name": "Sekou Gassama",
+                    "position": "FW",
+                    "price": 12
+                },
+                {
+                    "name": "Ghiles Guenaoui",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Ismaïl Belkacemi",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Ilyes Chetti",
+                    "position": "DF",
+                    "price": 7
+                },
+                {
+                    "name": "Kévin Mondeko",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Imadeddine Azzi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Ben Mazouz",
+                    "position": "FW",
+                    "price": 8.5
+                },
+                {
+                    "name": "Glody Likonza",
+                    "position": "MF",
+                    "price": 7.5
+                },
+                {
+                    "name": "Houssam Ghacha",
+                    "position": "FW",
+                    "price": 9.5
+                },
+                {
+                    "name": "Wale Musa Alli",
+                    "position": "MF",
+                    "price": 8
+                },
+                {
+                    "name": "Saâdi Radouani",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Oussama Benbot",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Adam Alilet",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Brahim Benzaza",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Abdelkrim Namani",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdelmoumen Sifour",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mohamed Aït El Hadj",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Rayane Abdelmadjid Mahrouz",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Hocine Dehiri",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Nabil Lamara",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Salim Boukhenchouche",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Oussama Chita",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Khaled Bousseliou",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Islam Merili",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Kamel Soufi",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Omar Embarek",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Hamza Bouali",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Aymen Kennen",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Hamza Boualam",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Zineddine Ben Ahmed",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Seif Eddine Athamnia",
+                    "position": "DF",
+                    "price": 6
+                }
+            ]
+        },
+        {
+            "club_name": "Jeunesse sportive de Kabylie - JSK",
+            "kit_image_url": "Club_Kits/jsk_kit.png",
+            "players": [
+                {
+                    "name": "Ryad Boudebouz",
+                    "position": "MF",
+                    "price": 15
+                },
+                {
+                    "name": "Lahlou Akhrib",
+                    "position": "FW",
+                    "price": 12
+                },
+                {
+                    "name": "Sadio Kanouté",
+                    "position": "MF",
+                    "price": 10
+                },
+                {
+                    "name": "Kouceila Boualia",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Gaya Merbah",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Walter Bwalya",
+                    "position": "FW",
+                    "price": 11
+                },
+                {
+                    "name": "Djibril Ouattara",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Youssouf Koné",
+                    "position": "DF",
+                    "price": 8
+                },
+                {
+                    "name": "Redouane Berkane",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Mohamed Reda Hamidi",
+                    "position": "DF",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed Amine Madani",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Ali Amriche",
+                    "position": "MF",
+                    "price": 7.5
+                },
+                {
+                    "name": "Seif Benrabah",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mohamed Idir Hadid",
+                    "position": "GK",
+                    "price": 4
+                },
+                {
+                    "name": "Moussa Benzaid",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Adem Redjem",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Aymen Abdeldjalil Bendaoud",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Chekal Affari Hadji",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Aimen Lahmeri",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Lounas Adjout",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Sid Ahmed Matallah",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Ahmed Mammeri",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdelhamid Driss",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Babacar Sarr",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Massinissa Nezla",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Idir Mokadem",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Oualid Malki",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Fares Nechat Djabri",
+                    "position": "DF",
+                    "price": 6
+                }
+            ]
+        },
+        {
+            "club_name": "Paradou Athletic Club - PAC",
+            "kit_image_url": "Club_Kits/parado_kit.png",
+            "players": [
+                {
+                    "name": "Adil Boulbina",
+                    "position": "MF",
+                    "price": 16
+                },
+                {
+                    "name": "Mokhtar Ferrahi",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Nassim Yattou",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Adel Belkacem Bouzida",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Abderrahmane Berkoun",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Mustapha Djabril Soukkou",
+                    "position": "FW",
+                    "price": 8.5
+                },
+                {
+                    "name": "Mohamed El Amine Ramdaoui",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Ben Ahmed Kohili",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Ahmed Aït Abdesslem",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Chouaib Boulkaboul",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Fouad Kermiche",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Abdelkader Morcely",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Djaber Kaâssis",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Abdeldjalil Tahri",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Ouanisse Bouzahzah",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Tahir bin Amir",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdellah Bendouma",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Salah Eddine Bouziani",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Taha Yassine Tahar",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Hamza Salem",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Aymen Zakarya Sais",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Moncef Bisker",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Christ Vié Chelmar Toulouenga Mfoula",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Mohamed Hady Sahnoun",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Islam Bouloudène",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Mohammed Qossey Djaidja",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Amrani Youcef Bouziane",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Tameur Kerkar",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed Islam Abdelkader",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Salah Eddine Zaoui",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Djamel Eddine Zidan",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed Abderahmane Saadi",
+                    "position": "MF",
+                    "price": 6.5
+                }
+            ]
+        },
+        {
+            "club_name": "Club sportif constantinois - CSC",
+            "kit_image_url": "Club_Kits/csc_kit.png",
+            "players": [
+                {
+                    "name": "Brahim Dib",
+                    "position": "FW",
+                    "price": 14
+                },
+                {
+                    "name": "Zakaria Benchaâ",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Messala Merbah",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Zakaria Bouhalfaya",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Aymen Bouguerra",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Tosin Omoyele",
+                    "position": "FW",
+                    "price": 11
+                },
+                {
+                    "name": "Abdennour Belhocini",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Achraf Boudrama",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Kheireddine Boussouf",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mohamed Benchaira",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Miloud Rebiaï",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Enow Nasir bin Adolf Nkembe",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Oussama Meddahi",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Mounder Temine",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Chamseddine Derradji",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Laïd Chahine Bellaouel",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Dadi El Hocine Mouaki",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Houari Baouche",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Anwar Khemmar",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Salifou Tapsoba",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Abdelkader Kaibou",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Mélo Ndiaye",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdelmalek Necir",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Féthi Tahar",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Abdelmoumene Guessoum",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Firaz Saibi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed Amine Benmessabih",
+                    "position": "FW",
+                    "price": 8
+                }
+            ]
+        },
+        {
+            "club_name": "Entente sportive sétifienne - ESS",
+            "kit_image_url": "Club_Kits/ess_kit.png",
+            "players": [
+                {
+                    "name": "Abdou Salam Ag Jiddou",
+                    "position": "MF",
+                    "price": 8
+                },
+                {
+                    "name": "Akram Djahnit",
+                    "position": "MF",
+                    "price": 9
+                },
+                {
+                    "name": "Tarek Bousseder",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Salah Bouchama",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Rodrigue Kossi Fiogbé",
+                    "position": "MF",
+                    "price": 8.5
+                },
+                {
+                    "name": "Drice Chaabi",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed Boukerma",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Abderrahmane Bacha",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Houari Ferhani",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Messaoud Salem",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Youcef Douar",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Youcef Taki Eddine Aouissi",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Ala Eddine Bouaoune",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Augustine Oladapo",
+                    "position": "MF",
+                    "price": 7.5
+                },
+                {
+                    "name": "Amir Nouri",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Taher Benkhelifa",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Moriba Diarra",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Imadeddine Boubekeur",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Abdelmoumen Chikhi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdouel Ali Hadji",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Mohamed Imed Reguig",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Zakaria Saidi",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Abderrazak Mohra",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Oussama Bouguerri",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Bassem Mechaar",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Oussama Gatal",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdelaziz Abdelkader Mouley",
+                    "position": "FW",
+                    "price": 8.5
+                }
+            ]
+        },
+        {
+            "club_name": "Association sportive olympique de Chlef - ASOC",
+            "kit_image_url": "Club_Kits/asoc_kit.png",
+            "players": [
+                {
+                    "name": "Yawo Agbagno",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Achref Abada",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abderrahmane Medjadel",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Abderrahim Hamra",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abderrahmane Bourdim",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Gape Mohutsiwa",
+                    "position": "MF",
+                    "price": 7.5
+                },
+                {
+                    "name": "Abdelhak Debbari",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdelkader Boussaid",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Mokhtar Belkhiter",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Belkacem Brahimi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Moussa Boukhenna",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Sofiane Kacem",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Redouane Bounoua",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Tarek Bouabta",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Ismael Mahamadou Moussa",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Imad Eddine Larbi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Ayoub Sadahine",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Rayan Sohaib Choukri",
+                    "position": "FW",
+                    "price": 8.5
+                },
+                {
+                    "name": "Ibrahim Farhi Benhalima",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Anis Elhadj Benchouya",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Mostapha Alili",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed Medjadji",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Aymen Kouadri Habbaz",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Houssam Kellouche",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed El Amine Barka",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Belkacem Bakhtouchi",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Belkacem Bourorga",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Mohamed Abelillah Badani",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Ilyas Abboub",
+                    "position": "MF",
+                    "price": 6.5
+                }
+            ]
+        },
+        {
+            "club_name": "Union sportive madinet Khenchela - USMK",
+            "kit_image_url": "Club_Kits/usmk_kit.png",
+            "players": [
+                {
+                    "name": "Hamid Djaouchi",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Prince Ibara",
+                    "position": "FW",
+                    "price": 10
+                },
+                {
+                    "name": "Oussama Litim",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Dago Tshibamba Samu",
+                    "position": "FW",
+                    "price": 8.5
+                },
+                {
+                    "name": "Abdelhak Sameur",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Islam Bakir",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Badreddine Touki",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Chouaïb Debbih",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Mohamed Reda Boumechra",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Sofiane Khedaïria",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Hamza Rebiai",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Ilyes Yaiche",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Samir Aiboud",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Ibrahim Hachoud",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Ahmida Zenasni",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Oussama Safa Kaddour",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Aymen Chaaraoui",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Abdelhafid Hoggas",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Diadié Dianka Samadiaré",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Irenée Togbedji Glele",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Moise Gbai",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Nabil Saadou",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Amar Khaled Nèche",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Zakaria Saidi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed Guemroud",
+                    "position": "DF",
+                    "price": 6
+                }
+            ]
+        },
+        {
+            "club_name": "Olympique Akbou - OA",
+            "kit_image_url": "Club_Kits/akbou_kit.png",
+            "players": [
+                {
+                    "name": "Ali Haroun",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Juba Oukaci",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Zidane Mebarakou",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Walid Zamoum",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Omar Adrar",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Ammar Abdelmalek Oukil",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Sidi Ali El Amri",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed Yasser Chelfaoui",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Younes Abdelhak Ouassa",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Dhirar Bensaadallah",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Slimane Bouteldja",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Merouane Mehdaoui",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Hicham Messiad",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Sofiane Fouad Lachahab",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Rayane Karim Ait Mouloud",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Billal Boukarroum",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Louanes Zidi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdeldjalil Bahoussi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Hatem Ben Cheikh El Fegoun",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Khalid Dahamni",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Tarek Adouane",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Massinissa Benamara",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed El Hachemi Chacha",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdelhak Askar",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Benaouda Klileche",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mohamed Hamadouche",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed El Amine Yacoubi",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mohamed Amine Gherbi",
+                    "position": "FW",
+                    "price": 6
+                }
+            ]
+        },
+        {
+            "club_name": "Mouloudia Club d'Oran - MCO",
+            "kit_image_url": "Club_Kits/mco_kit.png",
+            "players": [
+                {
+                    "name": "Karim Mammar",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Yanis Hamache",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Marouan Dahar",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Léonard Aggoune",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Chahreddine Boukholda",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Juba Aguieb",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Sery Gnoléba Edmond Narcisse",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Chamseddine Rahmani",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "Ahmed Kerroum",
+                    "position": "DF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Zoubir Motrani",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Abdelhafid Benamara",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Kelyan Guessoum",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Tarek Aggoun",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Sylla",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Yacine Aliane",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Merouane Boussalem",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Abdelkader Belharrane",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Aymen Chadli",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Maxwell Baakoh",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Yanis Ramdani",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Karim Aribi",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Mohammed Djelalda",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Oussama Benattia",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mounir Mehdi Mahadene",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed Es Seddik Senhadji",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Anis Mendil",
+                    "position": "GK",
+                    "price": 5
+                },
+                {
+                    "name": "H'Mida Salah",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Oualid Ardji",
+                    "position": "MF",
+                    "price": 6.5
+                }
+            ]
+        },
+        {
+            "club_name": "Mouloudia Club El Bayadh - MCB",
+            "kit_image_url": "Club_Kits/bayadh_kit.png",
+            "players": [
+                {
+                    "name": "Abdelkadir Salhi",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Anis Khemaissia",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Islam Chahrour",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdellah El Moudene",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Belaid Kouar",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Toumi",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Ilyes Attallah",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed Said Benchoucha",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "M'hend Sediri",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Kheireddine Benamrane",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mounir Belhaidja",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Aïssa Boudechicha",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Kheireddine Toual",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Oussama Yerou",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Dalil Adel Hassen Khodja",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Djamel Belalem",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Aymen Mouyet",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Abdelhak Sailaa",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Ismail Bounaama",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Zahreddine Benabda",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdelilah Barkat",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Abdessamad Bounaama",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Alaa Eddine Belaribi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Youcef Serraoui",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Abdel Ali Hamadi",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Oussama Hamidane",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mohamed Ali Hamzaoui",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Tarek Abdelmouhaimen Lakhdari",
+                    "position": "MF",
+                    "price": 6.5
+                }
+            ]
+        },
+        {
+            "club_name": "Jeunesse sportive de Saoura - JSS",
+            "kit_image_url": "Club_Kits/saoura_kit.png",
+            "players": [
+                {
+                    "name": "Mohamed Souibaâh",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Mohamed El Amine Hammia",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Adel Bouchiba",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdelkader Ghorab",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Riyane Akacem",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Amrane",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Nour El Islam Fettouhi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Walid Ouabdi",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Kamel Belmiloud",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Oussama Bentaleb",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed Taib",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Yacine Medane",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdelkader Boutiche",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Fayçal Mebarki",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdenasser Djoudar",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Moncef Marouani",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Ilyes Faical Haddouche",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Aymen Belaribi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Massinissa Benchelouche",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdeldjalil Ouldammar",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Rafik Brahimi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Ayoub Belhachemi",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Mohamed Zakaria Haouli",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Abbas Hamek",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Khaled Mounir Allaoui",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdenour Barkat",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Azzedine Berriah",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Ismaïl Saïdi",
+                    "position": "FW",
+                    "price": 8
+                }
+            ]
+        },
+        {
+            "club_name": "Nadjem Chabab Magra - NCM",
+            "kit_image_url": "Club_Kits/nmagra_kit.png", 
+            "players": [
+                {
+                    "name": "Adil Djabout",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Zakaria Messibah",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Akram Demane",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Mohamed Merouani",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Faik Amrane",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Aymen Attou",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Abdelhak Belkacemi",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Abdesslem Bouchouareb",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Foued Hadded",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Zakarya Kemoukh",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Ibrahim Bekakchi",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Mostafa Berkane",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Imad Benchlef",
+                    "position": "GK",
+                    "price": 4
+                },
+                {
+                    "name": "Oualaa Moundhir Bouzekri",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Massinissa Ould Taleb",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Zakaria Zaitri",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Abdeldjalil Mancer",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Khaled Bouhakak",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Chems Eddine Lakehal",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohammed Tayeb Cherif",
+                    "position": "GK",
+                    "price": 4
+                },
+                {
+                    "name": "Ishak Salah Eddine Harrari",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Amine Semahi",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Hamza Demane",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Djaoued Lebkies",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Badis Khadiche",
+                    "position": "FW",
+                    "price": 7
+                },
+                {
+                    "name": "Islem Bennaceur",
+                    "position": "GK",
+                    "price": 4
+                },
+                {
+                    "name": "Adem Aichouche",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Khatir Baaziz",
+                    "position": "MF",
+                    "price": 6
+                },
+                {
+                    "name": "Louey Berrahal",
+                    "position": "FW",
+                    "price": 6
+                }
+            ]
+        },
+        {
+            "club_name": "Espérance sportive de Mostaganem - ESM",
+            "kit_image_url": "Club_Kits/esm_kit.png",
+            "players": [
+                {
+                    "name": "Toufik Addadi",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Chakib Aoudjane",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Aziz Benabdi",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Khaled Chouari",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Fouad Ghanem",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdesslam Hannane",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Nizar Thamer",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Boualem Mesmoudi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohammed Fodil Belkhadem",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed Amine Ezzemani",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Yasser Belaribi",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Akram Abou Bakr Bibi",
+                    "position": "FW",
+                    "price": 9
+                },
+                {
+                    "name": "Noureddine Hamri",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Ramdane Hitala",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Chérif Siam",
+                    "position": "MF",
+                    "price": 7
+                },
+                {
+                    "name": "Riadh Dahmani",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Abdelkader Tamimi",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Mohamed Alaouchiche",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Mohammed Reyad Lezoul",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Ameur Bouguettaya",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Benali Benamar",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Houcine Aoued",
+                    "position": "FW",
+                    "price": 7.5
+                },
+                {
+                    "name": "Mustapha Zeghnoun",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Yacine Zeghad",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdellah Meddah",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Beghdadi",
+                    "position": "DF",
+                    "price": 5.5
+                },
+                {
+                    "name": "Mohamed Bouhalfaya",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Hani Gasmi",
+                    "position": "FW",
+                    "price": 7.5
+                }
+            ]
+        },
+        { 
+            "club_name": "Union sportive de Biskra - USB",
+            "kit_image_url": "Club_Kits/usb.png",
+            "players": [
+                {
+                    "name": "Oussama Mellala",
+                    "position": "GK",
+                    "price": 6.5
+                },
+                {
+                    "name": "Nacereddine Khoualed",
+                    "position": "DF",
+                    "price": 6 
+                },
+                {
+                    "name": "Adel Lakhdari",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Fateh Talah",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohamed Amine Bouziane",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Riad Wael Rahmoun",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Belaïd Hamidi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Mohamed El Seddik Baâli",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Ayoub Derbal",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Hatem Dakhia",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Oussama Barkat",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Yacine Salhi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Mohammed Es Said Bourahla",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Aymen Chahmat",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Khalil Darfalou",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Laïd Saïdi",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Necer Marouane Benzid",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Pomi Exaucé Sagesse Nzaou",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Abdellah Bouras Djelloul Daouadji",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Bouzid Dadache",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Ahmed Oukkal",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Tayeb Hamoudi",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Djemoui Malek Ferhat",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Fares Ben Abdelhamid Boukerrit",
+                    "position": "GK",
+                    "price": 4.5
+                },
+                {
+                    "name": "Wassim Zerari",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Abdeljalil Saâd",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Benamar Mellel",
+                    "position": "FW",
+                    "price": 8
+                },
+                {
+                    "name": "Aymen Bouda",
+                    "position": "MF",
+                    "price": 6.5
+                },
+                {
+                    "name": "Salah Eddine Benlaribi",
+                    "position": "DF",
+                    "price": 6
+                },
+                {
+                    "name": "Ahmed Redha Houhou",
+                    "position": "DF",
+                    "price": 6
+                }
+            ]
+        }
+    ]
+}
